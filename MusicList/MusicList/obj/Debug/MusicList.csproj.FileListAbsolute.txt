@@ -1,0 +1,135 @@
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\MusicList.dll.config
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\MusicList.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\MusicList.pdb
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Antlr3.Runtime.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\EntityFramework.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\EntityFramework.SqlServer.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Newtonsoft.Json.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Owin.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Net.Http.Formatting.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Helpers.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.Owin.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.WebHost.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Mvc.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Optimization.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Razor.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\WebGrease.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Net.Http.Formatting.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Helpers.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.WebHost.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Mvc.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Razor.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Newtonsoft.Json.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Optimization.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Antlr3.Runtime.pdb
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\EntityFramework.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\EntityFramework.SqlServer.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\System.Web.Http.Owin.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.Migrations.Initial.resources
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.Migrations.Initial1.resources
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.csproj.GenerateResource.Cache
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.dll
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.pdb
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\bin\XmlDocument.xml
+C:\Users\Lahiru\Documents\Visual Studio 2013\Projects\New folder\MusicList\MusicList\obj\Debug\MusicList.csprojResolveAssemblyReference.cache
+L:\clz\API\MusicList\MusicList\bin\MusicList.dll.config
+L:\clz\API\MusicList\MusicList\bin\MusicList.dll
+L:\clz\API\MusicList\MusicList\bin\MusicList.pdb
+L:\clz\API\MusicList\MusicList\bin\Antlr3.Runtime.dll
+L:\clz\API\MusicList\MusicList\bin\EntityFramework.dll
+L:\clz\API\MusicList\MusicList\bin\EntityFramework.SqlServer.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Core.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Cookies.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Facebook.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Google.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.OAuth.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Twitter.dll
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Web.Infrastructure.dll
+L:\clz\API\MusicList\MusicList\bin\Newtonsoft.Json.dll
+L:\clz\API\MusicList\MusicList\bin\Owin.dll
+L:\clz\API\MusicList\MusicList\bin\System.Net.Http.Formatting.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Helpers.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.Owin.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.WebHost.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Mvc.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Optimization.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.Razor.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.Deployment.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.dll
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.Razor.dll
+L:\clz\API\MusicList\MusicList\bin\WebGrease.dll
+L:\clz\API\MusicList\MusicList\bin\System.Net.Http.Formatting.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Helpers.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.WebHost.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Mvc.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Razor.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.Deployment.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.WebPages.Razor.xml
+L:\clz\API\MusicList\MusicList\bin\Newtonsoft.Json.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Optimization.xml
+L:\clz\API\MusicList\MusicList\bin\Antlr3.Runtime.pdb
+L:\clz\API\MusicList\MusicList\bin\EntityFramework.xml
+L:\clz\API\MusicList\MusicList\bin\EntityFramework.SqlServer.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Core.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Facebook.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Cookies.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.OAuth.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Google.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.Twitter.xml
+L:\clz\API\MusicList\MusicList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\clz\API\MusicList\MusicList\bin\System.Web.Http.Owin.xml
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.Migrations.Initial.resources
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.Migrations.Initial1.resources
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.csproj.GenerateResource.Cache
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.dll
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.pdb
+L:\clz\API\MusicList\MusicList\bin\XmlDocument.xml
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.csprojResolveAssemblyReference.cache
+L:\clz\API\MusicList\MusicList\obj\Debug\MusicList.Properties.Resources.resources
